@@ -174,18 +174,11 @@ Use CNI FLannel To Make All Nodes Ready
 
 🎉 Congratulations! You’ve built a Kubernetes cluster with Vagrant + Kubeadm + containerd like a true DevOps pro ⚡
 
+
+
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+👨‍💻 Author: Ja’far Khalaf
+📧 Email: jafarkhalaf222@gmail.com
+🌐 Location: Jordan 🇯🇴
+🧩 Skills: DevSecOps | Cloud | Jenkins | Docker | Kubernetes | Terraform
+```
