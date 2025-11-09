@@ -161,7 +161,7 @@ sudo kubeadm init --apiserver-advertise-address <CONTROLPLANE_IP> \
 Copy the join command displayed at the end.
 Join worker nodes using the join command.
 Verify your cluster with:
-
+```
 ```bash
 kubectl get nodes
 ```
