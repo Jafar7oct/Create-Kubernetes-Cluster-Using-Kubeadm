@@ -69,8 +69,7 @@ We’ll configure Kubernetes manually using kubeadm on these machines.
 
 ## On All VMs 🖥️
 
-## Note💡
-### 🔗 If you want to Sync Terminals Across VMs To Be Able To Copy And Paste At The Same Time On Terminals Use `tmux`.
+### Note 💡 : If you want to Sync Terminals Across VMs To Be Able To Copy And Paste At The Same Time On Terminals Use `tmux`.
 
 
 ### 🏗️ Install and Configure Prerequisites (Inside Each VM) 🚫 Disable Swap
