@@ -174,6 +174,16 @@ kubectl apply -f https://github.com/flannel-io/flannel/releases/latest/download/
 Use CNI FLannel To Make All Nodes Ready
 [https://github.com/flannel-io/flannel](https://github.com/flannel-io/flannel) 
 
+
+### For Testing Cluster Deploy `deployment_for_test.yaml`
+```bash
+kubectl create -f deployment_for_test.yaml
+```
+For Check
+```bash
+kubectl get deployment
+```
+
 🎉 Congratulations! You’ve built a Kubernetes cluster with Vagrant + Kubeadm + containerd like a true DevOps pro ⚡
 
 
