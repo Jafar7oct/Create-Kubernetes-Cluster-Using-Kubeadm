@@ -50,12 +50,15 @@ vagrant status
 👉 Why?
 To make sure all your VMs are running and healthy
 
+
+
 ### 🧹 Other Useful Vagrant Commands
-#### Command	Description	Emoji
-##### vagrant halt	          Stops all running VMs (like pausing Netflix 🎬)	🛑
-##### vagrant destroy	        Removes all VMs completely (clean slate 💣)	🔥
-##### vagrant reload	        Reboots VMs and re-applies changes to the Vagrantfile	♻️
-##### vagrant ssh <vm-name>	  Connects to a specific VM (like remote login)	🧑‍💻
+| Command | Description | Emoji |
+|---------|-------------|-------|
+| `vagrant halt` | Stops all running VMs (like pausing Netflix 🎬) | 🛑 |
+| `vagrant destroy` | Removes all VMs completely (clean slate 💣) | 🔥 |
+| `vagrant reload` | Reboots VMs and re-applies changes to the Vagrantfile | ♻️ |
+| `vagrant ssh <vm-name>` | Connects to a specific VM (like remote login) | 🧑‍💻 |
 
 
 ### 5️⃣ SSH into the Machines
